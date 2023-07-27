@@ -16,8 +16,6 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
     - text: Contact
       url : /contact
 
@@ -64,7 +62,7 @@ author_project_details:
                 project_description: A clone of the Air BnB site
                 project_url: https://EvaMicich.github.io
                 visibility: true
-              - project_thumbnail: shell.PNG
+              - project_thumbnail: shell.png
                 project_title: Shell Clone
                 project_description: I coded a clone of a shell, with my coding partner Belinda Shan. Supports built-in commands exit and env. It also handles command execution with the $PATH environment variable.
                 project_url: https://EvaMicich.github.io
