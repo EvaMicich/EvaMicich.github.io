@@ -31,7 +31,7 @@ author_email: "6366@holbertonstudents.com"
 author_location: Ballarat, Australia
 author_website_url: "EvaMicich.github.io"
 typewrite-text: I am a Software Engineer with a background in Science.
-hero_cover_img: cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+hero_cover_img: desk.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
@@ -64,11 +64,11 @@ author_project_details:
                 project_description: A clone of the Air BnB site
                 project_url: https://EvaMicich.github.io
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
-                visibility: false
+              - project_thumbnail: shell.PNG
+                project_title: Shell Clone
+                project_description: I coded a clone of a shell, with my coding partner Belinda Shan. Supports built-in commands exit and env. It also handles command execution with the $PATH environment variable.
+                project_url: https://EvaMicich.github.io
+                visibility: true
 
 # social links
 twitter_username: johndoe
