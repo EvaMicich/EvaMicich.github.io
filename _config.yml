@@ -1,7 +1,7 @@
 title: Eva Micich
-subtitle: A Portfolio Jekyll Theme Built for Developers
+subtitle: Software Engineer | Scientist | Travel Enthusiast | Mum
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  I am a Software Engineer with a background in Science.
 
 url: "https://EvaMicich.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -30,8 +30,8 @@ author_bio: I am a Software Engineer with a background in Analytical Chemistry. 
 author_email: "6366@holbertonstudents.com"
 author_location: Ballarat, Australia
 author_website_url: "EvaMicich.github.io"
-typewrite-text: I am a Software Engineer with a background in Science
-hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+typewrite-text: I am a Software Engineer with a background in Science.
+hero_cover_img: cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
