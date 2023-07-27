@@ -36,7 +36,7 @@ author_work_experiences:
               company_logo: DST2.png
               company_url: https://www.dst.defence.gov.au/
               designation: Scientist
-              description: Worked on various Defence projects in Analytical Chemistry
+              description: Skills; Problem Solving · Analytical Skills · Communication · Public Speaking. Worked on various Defence projects in Analytical Chemistry
               visibility: true
             - company_name: Microsoft
               company_logo: microsoft.png
@@ -50,7 +50,7 @@ author_education_details:
               - college_logo: Holberton.png
                 college_name: Holberton School
                 college_url: https://holbertonschool.com.au/
-                college_degree: Foundations of Software Engineering
+                college_degree: 2023
                 description: Foundations of Software Engineering
                 visibility: true
 
@@ -58,13 +58,13 @@ author_education_details:
 author_project_details:
               - project_thumbnail: air_bnb.png
                 project_title: Air BnB Clone
-                project_description: A clone of the Air BnB site
-                project_url: https://EvaMicich.github.io
+                project_description: A work in progress. The clone of the Air BnB site has the python back-end classes, and a static site with html, and css. It will soon have Javascirpt and SQL added. 
+                project_url: https://github.com/EvaMicich/holbertonschool-AirBnB_clone
                 visibility: true
               - project_thumbnail: shell.png
                 project_title: Shell Clone
                 project_description: I coded a clone of a shell, with my coding partner Belinda Shan. Supports built-in commands exit and env. It also handles command execution with the $PATH environment variable.
-                project_url: https://EvaMicich.github.io
+                project_url: https://github.com/EvaMicich/holbertonschool-simple_shell
                 visibility: true
 
 # social links
