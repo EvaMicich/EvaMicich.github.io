@@ -13,7 +13,7 @@ urls:
     - text: About
       url: /about
 
-    - text: Gallery
+    - text: Travel Map
       url: /gallery
     - text: Contact
       url : /contact
@@ -53,6 +53,24 @@ author_education_details:
                 college_degree: 2023
                 description: Foundations of Software Engineering
                 visibility: true
+              - college_logo: Holberton.png
+                college_name: LaTrobe University
+                college_url: https://holbertonschool.com.au/
+                college_degree: 2023
+                description: Foundations of Software Engineering
+                visibility: true   
+              - college_logo: Holberton.png
+                college_name: The Knowledge Academy
+                college_url: https://holbertonschool.com.au/
+                college_degree: 2023
+                description: Foundations of Software Engineering
+                visibility: true 
+              - college_logo: Holberton.png
+                college_name: Swinburn University
+                college_url: https://holbertonschool.com.au/
+                college_degree: 2023
+                description: Foundations of Software Engineering
+                visibility: true            
 
 # Projects
 author_project_details:
