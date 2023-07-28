@@ -9,7 +9,8 @@
     </div>
   </div>
   <br />
-  <p>&nbsp;More articles soon...</p>
+  
+<!--
   <ul>
     {% for post in site.posts limit:0 %}
     <li class="article-card">
@@ -42,5 +43,24 @@
     </li>
     {% endfor %}
   </ul>
+-->
+
+<ul>
+  <li class="article-card">
+    <a href="https://medium.com/@eva.micich/unveiling-the-mysteries-of-immutable-and-mutable-objects-in-python-e8463cf41d3f" class="article-card-link">
+      <div id="article-container">
+        <div id="article-img">
+          <!-- you may put static author image URL here, if needed -->
+          <img src="{{site.url}}{{site.baseurl}}/assets/img/authors/{{author_data.avatar}}" width="50px" height="50px" />
+        </div>
+        <div id="article-link">
+          <!-- you may put static post title and date here, if needed -->
+          <p class="recent-article-link">Post title <span style="color: #ccc; font-size: 15px;"> - <i><time datetime="post_date_here" itemprop="datePublished">Post Date</time></i></span></p>
+        </div>
+      </div>
+    </a>
+  </li>
+</ul>
+
 
 </section>
