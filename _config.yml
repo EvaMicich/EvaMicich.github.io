@@ -75,8 +75,8 @@ author_education_details:
 # Projects
 author_project_details:
               - project_thumbnail: air_bnb.png
-                project_title: Air BnB Clone
-                project_description: A work in progress. The clone of the Air BnB site has the python back-end classes, and a static site with html, and css. It will soon have Javascirpt and SQL added. 
+                project_title: Airbnb Clone
+                project_description: A work in progress. The clone of the Airbnb site has the python back-end classes, and a static site with HTML, and CSS. It will soon have Javascirpt and SQL added. 
                 project_url: https://github.com/EvaMicich/holbertonschool-AirBnB_clone
                 visibility: true
               - project_thumbnail: shell.png
