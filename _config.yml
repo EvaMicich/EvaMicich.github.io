@@ -13,10 +13,6 @@ urls:
     - text: About
       url: /about
 
-    - text: Travel Map
-      url: /gallery
-    - text: Contact
-      url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
