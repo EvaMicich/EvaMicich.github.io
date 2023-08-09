@@ -47,13 +47,7 @@ author_education_details:
                 college_name: Holberton School
                 college_url: https://holbertonschool.com.au/
                 college_degree: 2023
-                description: Foundations of Software Engineering
-                description: Sprint 1 Software Engineering Basics
-                description: Master Linux/Unix shell, Git, GitHub, and C programming basics like variables, data structures, loops, conditionals, and libraries. Gain proficiency in C programming and software engineering principles.
-                description: Sprint 2 Advanced Programming & Web Tech
-                description: Dive deeper into advanced C programming concepts and Python's complex constructs. Learn HTML, CSS, SQL, and develop an Airbnb clone project integrated with a MySQL database.
-                description: Sprint 3 DevOps & Portfolio Development
-                description: Progress the Airbnb project with a focus on web frameworks and APIs. Expand your JavaScript and DevOps knowledge, including CI/CD, Docker, Jenkins, and Ansible. Conclude by creating a portfolio project to showcase your software engineering skills.
+                description: Foundations of Software Engineering. Three sprints cover software engineering. Sprint 1 focuses on Linux, Git, GitHub, and C programming basics. Sprint 2 dives into advanced C, Python, HTML, CSS, SQL, and a clone project. Sprint 3 emphasizes web frameworks, APIs, JavaScript, DevOps tools, and concludes with a portfolio project.
                 visibility: true
               - college_logo: la-trobe.jpg
                 college_name: LaTrobe University
